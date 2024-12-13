@@ -172,7 +172,6 @@ const Footer = () => {
             })}
           </div>
 
-          <div className="text-center">Made with ❤️ By Om Patel</div>
         </div>
       </div>
     </div>
